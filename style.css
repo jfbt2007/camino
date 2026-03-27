@@ -1,8 +1,53 @@
 
 
+#index {
+     h1 {
+    background-color: rgb(0, 0, 0);
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}  
 img {
     width: 25vw;
-}
+} }
 #capitulo2 {
-    background-image: url("/assets/liam-fucking-gallagher.gif");
+    background-image: url("/assets/🔥\ Radiohead\ Wallpapers\ 1080p\ on\ WallpaperSafari.jpeg");
+    h1 {
+    background-color: rgb(255, 255, 255);
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; 
 }
+    
+}
+#capitulo3 {
+    background-image: url("assets/Black\ Country\,\ New\ Road\ by\ Eddie\ Whelan.jpeg");
+    h1 {
+    background-color: rgb(255, 255, 255);
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; 
+}
+    
+}
+#capitulo4 {
+    background-image: url("assets/Sufjan\ Stevens.jpeg");
+    h1 {
+    background-color: rgb(255, 255, 255);
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; 
+}
+    
+}
+#capitulo5 {
+    background-image: url("assets/_\ \(43\).jpeg");
+    h1 {
+    background-color: rgb(255, 255, 255);
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; 
+}
+    
+}
+
