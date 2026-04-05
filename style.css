@@ -53,6 +53,54 @@ img {
     top: 45%;
     left: 15%;
 }
+#reco1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    background-color: white;
+    width: 30vw;
+    position: absolute;
+    top: 18%;
+    left: 60%;
+}
+#regreso {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    background-color: white;
+    color: yellow;
+    width: 4vw;
+    position: absolute;
+    bottom: 10%;
+
+}
+#moon { 
+width: 15vw;
+    height: 15vw;
+    position: absolute;
+    top: 60%;
+    left: 60%;
+}
+#rain { 
+width: 15vw;
+    height: 15vw;
+    position: absolute;
+    top: 60%;
+    left: 80%;
+}
+#hwt {
+     position: absolute;
+    top: 30%;
+    left: 80%;
+
+}
+#wrd {
+     position: absolute;
+    top: 30%;
+    left: 60%;
+
+}
+
+
 #capitulo3 {
     background-image: url("assets/Black\ Country\,\ New\ Road\ by\ Eddie\ Whelan.jpeg");
     h1 {
