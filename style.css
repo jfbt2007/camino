@@ -17,8 +17,41 @@ img {
     font-size: 2em;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center; 
+
 }
+
     
+}
+#porque {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    background-color: white;
+    width: 30vw;
+}
+#contexto1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    background-color: white;
+    width: 30vw;
+    position: relative;
+    top: 30%;
+    left: 30%;
+}
+#radio1 {
+    width: 20vw;
+    height: 20vw;
+    position: relative;
+    top: 40%;
+    left: 5%;
+}
+#radio2 {
+    width: 20vw;
+    height: 20vw;
+    position: relative;
+    top: 45%;
+    left: 15%;
 }
 #capitulo3 {
     background-image: url("assets/Black\ Country\,\ New\ Road\ by\ Eddie\ Whelan.jpeg");
