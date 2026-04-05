@@ -11,7 +11,7 @@ img {
     width: 25vw;
 } }
 #capitulo2 {
-    background-image: url("/assets/🔥\ Radiohead\ Wallpapers\ 1080p\ on\ WallpaperSafari.jpeg");
+    background-image: url("assets/radiohead.jpeg");
     h1 {
     background-color: rgb(255, 255, 255);
     font-size: 2em;
@@ -41,7 +41,7 @@ img {
     
 }
 #capitulo5 {
-    background-image: url("assets/_\ \(43\).jpeg");
+    background-image: url("assets/charly.jpeg");
     h1 {
     background-color: rgb(255, 255, 255);
     font-size: 2em;
