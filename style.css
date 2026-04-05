@@ -1,15 +1,83 @@
-
+#capitulo1 {
+    background-image: url("assets/imgg.jpeg") ;
+}
 
 #index {
-     h1 {
-    background-color: rgb(0, 0, 0);
-    font-size: 2em;
+    background-color: rgb(255, 109, 109);
+    font-size: 4em;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }   
-img {
-    width: 25vw;
-} }
+
+#link2 {
+    font-size: 3em;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 109, 109);
+    width: 15vw;
+}
+#link3 {
+    font-size: 3em;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 109, 109);
+    width: 15vw;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+}
+#link4 {
+    font-size: 3em;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 109, 109);
+    width: 15vw;
+     position: absolute;
+    top: 50%;
+    left: 40%;
+    
+}
+#link5 {
+    font-size: 3em;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 109, 109);
+    width: 15vw;
+    position: absolute;
+    top: 70%;
+    left: 60%;
+}
+#mag {
+    height: 17vw;
+    width: 15vw;
+    position: absolute;
+    top: 21%;
+    right: 30%;
+}
+#mag {
+    height: 17vw;
+    width: 15vw;
+    position: absolute;
+    top: 21%;
+    right: 30%;
+}
+#marias {
+    height: 17vw;
+    width: 15vw;
+    position: absolute;
+    top: 21%;
+    right: 10%;
+}
+#mkgee {
+    height: 17vw;
+    width: 15vw;
+    position: absolute;
+    top: 61%;
+    left: 3%;
+}
+#geese {
+    height: 17vw;
+    width: 15vw;
+    position: absolute;
+    top: 61%;
+    left: 23%;
+}
 #capitulo2 {
     background-image: url("assets/radiohead.jpeg");
     h1 {
@@ -102,25 +170,192 @@ width: 15vw;
 
 
 #capitulo3 {
-    background-image: url("assets/Black\ Country\,\ New\ Road\ by\ Eddie\ Whelan.jpeg");
+    background-image: url("assets/Black\ Country\,\ New\ Road\ -\ Ants\ From\ Up\ There.jpeg");
     h1 {
     background-color: rgb(255, 255, 255);
     font-size: 2em;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center; 
 }
+
     
 }
+#capitulo2 {
+    background-image: url("assets/radiohead.jpeg");
+    h1 {
+    background-color: rgb(255, 255, 255);
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; 
+
+}
+
+    
+}
+#porque2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    background-color: white;
+    width: 30vw;
+}
+#contexto2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    background-color: white;
+    width: 30vw;
+    position: relative;
+    top: 30%;
+    left: 30%;
+}
+#bc1 {
+    width: 25vw;
+    height: 20vw;
+    position: absolute;
+    top: 20%;
+    left: 2%;
+}
+#bc2 {
+    width: 20vw;
+    height: 30vw;
+    position: relative;
+    top: 40%;
+    left: 35%;
+}
+#reco2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    background-color: white;
+    width: 30vw;
+    position: absolute;
+    top: 18%;
+    left: 60%;
+}
+#regreso {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    background-color: white;
+    color: yellow;
+    width: 4vw;
+    position: absolute;
+    bottom: 10%;
+
+}
+#afpt { 
+width: 15vw;
+    height: 15vw;
+    position: absolute;
+    top: 60%;
+    left: 60%;
+}
+#rain { 
+width: 15vw;
+    height: 15vw;
+    position: absolute;
+    top: 60%;
+    left: 80%;
+}
+#basket {
+     position: absolute;
+    top: 30%;
+    left: 80%;
+
+}
+#hld {
+     position: absolute;
+    top: 30%;
+    left: 60%;
+
+}
+
 #capitulo4 {
-    background-image: url("assets/Sufjan\ Stevens.jpeg");
+    background-image: url("assets/sufjan.jpeg");
     h1 {
     background-color: rgb(255, 255, 255);
     font-size: 2em;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center; 
+} }
+   #porque3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    background-color: white;
+    width: 30vw;
 }
-    
+#contexto3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    background-color: white;
+    width: 30vw;
+    position: relative;
+    top: 30%;
+    left: 30%;
 }
+#sf1 {
+    width: 29vw;
+    height: 20vw;
+    position: absolute;
+    top: 20%;
+    left: 1%;
+}
+#sf2 {
+    width: 20vw;
+    height: 20vw;
+    position: relative;
+    top: 40%;
+    left: 35%;
+}
+#reco3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    background-color: white;
+    width: 30vw;
+    position: absolute;
+    top: 18%;
+    left: 60%;
+}
+#regreso {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    background-color: white;
+    color: yellow;
+    width: 4vw;
+    position: absolute;
+    bottom: 10%;
+
+}
+#cyl { 
+width: 15vw;
+    height: 15vw;
+    position: absolute;
+    top: 60%;
+    left: 60%;
+}
+#age { 
+width: 15vw;
+    height: 15vw;
+    position: absolute;
+    top: 60%;
+    left: 80%;
+}
+#come {
+     position: absolute;
+    top: 30%;
+    left: 80%;
+
+}
+#better {
+     position: absolute;
+    top: 30%;
+    left: 60%;
+
+} 
+
 #capitulo5 {
     background-image: url("assets/charly.jpeg");
     h1 {
@@ -130,5 +365,82 @@ width: 15vw;
     text-align: center; 
 }
     
+}
+   #porque4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    background-color: white;
+    width: 30vw;
+}
+#contexto4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    background-color: white;
+    width: 30vw;
+    position: relative;
+    top: 30%;
+    left: 30%;
+}
+#cg1 {
+    width: 29vw;
+    height: 35vw;
+    position: absolute;
+    top: 20%;
+    left: 1%;
+}
+#cg2 {
+    width: 20vw;
+    height: 28vw;
+    position: relative;
+    top: 40%;
+    left: 35%;
+}
+#reco4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    background-color: white;
+    width: 30vw;
+    position: absolute;
+    top: 18%;
+    left: 60%;
+}
+#regreso {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    background-color: white;
+    color: yellow;
+    width: 4vw;
+    position: absolute;
+    bottom: 10%;
+
+}
+#peliculas { 
+width: 15vw;
+    height: 15vw;
+    position: absolute;
+    top: 60%;
+    left: 60%;
+}
+#seru { 
+width: 15vw;
+    height: 15vw;
+    position: absolute;
+    top: 60%;
+    left: 80%;
+}
+#cine {
+     position: absolute;
+    top: 30%;
+    left: 80%;
+
+}
+#total {
+     position: absolute;
+    top: 30%;
+    left: 60%;
+
 }
 
